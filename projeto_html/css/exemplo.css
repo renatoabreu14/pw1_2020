@@ -1,0 +1,35 @@
+*{}/*comentário*/
+header{background-color: darkseagreen; width: 90%; height: 80px}
+h1{color: red; font-size: 40px; text-shadow: 2px 2px black}
+input[type="text"]{background-color: darkcyan; width: 200px; height: 40px; border: none}
+header, h1, input {color: chocolate}
+
+.paragrafo{
+    background-color: gold;
+    color: darkred;
+    text-indent: 20px;
+    width: 600px;
+    line-height: 40px;
+    font-size: 24px;
+    text-align: justify;
+    text-decoration: none;
+    font-weight: bold;
+    border-style: dotted;
+    border-width: 15px;
+    padding: 25px;
+    margin: 10px;
+}
+
+#identificador{
+    background-color: gold;
+    color: white;
+    text-indent: 20px;
+    width: 600px;
+    line-height: 40px;
+    font-size: 24px;
+    text-align: justify;
+    font-weight: bold;
+}
+a{text-decoration: none}
+
+/*tag{propriedade:valor;}*/
